@@ -1,4 +1,4 @@
-[Projeto Spacetime](https://alisson-vml.github.io/projeto_alura_1/)
+[Projeto Página Web Alura](https://alisson-vml.github.io/projeto_alura_1/)
 
 <p align = "center">
   <img src="assets/preview.png" alt="Demonstração do projeto" width="100%"/>
